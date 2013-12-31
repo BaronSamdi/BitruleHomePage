@@ -60,6 +60,11 @@ a:hover {
   outline: 0;
 }
 
+h0 {
+  margin: 0.67em 0;
+  font-size: 2em;
+}
+
 h1 {
   margin: 0.67em 0;
   font-size: 2em;
@@ -389,6 +394,7 @@ hr {
   border: 0;
 }
 
+h0,
 h1,
 h2,
 h3,
@@ -471,6 +477,11 @@ h6 .small {
 h1,
 .h1 {
   font-size: 36px;
+}
+
+h0,
+.h0 {
+  font-size: 65px;
 }
 
 h2,
